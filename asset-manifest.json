@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/irina1430/toDoTask.git/static/css/main.375c0c46.css",
-    "main.js": "/irina1430/toDoTask.git/static/js/main.aa92bef0.js",
-    "static/js/453.3f8160c4.chunk.js": "/irina1430/toDoTask.git/static/js/453.3f8160c4.chunk.js",
-    "index.html": "/irina1430/toDoTask.git/index.html",
-    "main.375c0c46.css.map": "/irina1430/toDoTask.git/static/css/main.375c0c46.css.map",
-    "main.aa92bef0.js.map": "/irina1430/toDoTask.git/static/js/main.aa92bef0.js.map",
-    "453.3f8160c4.chunk.js.map": "/irina1430/toDoTask.git/static/js/453.3f8160c4.chunk.js.map"
+    "main.css": "/irina1430/toDoTask/static/css/main.375c0c46.css",
+    "main.js": "/irina1430/toDoTask/static/js/main.a53705a0.js",
+    "static/js/453.3f8160c4.chunk.js": "/irina1430/toDoTask/static/js/453.3f8160c4.chunk.js",
+    "index.html": "/irina1430/toDoTask/index.html",
+    "main.375c0c46.css.map": "/irina1430/toDoTask/static/css/main.375c0c46.css.map",
+    "main.a53705a0.js.map": "/irina1430/toDoTask/static/js/main.a53705a0.js.map",
+    "453.3f8160c4.chunk.js.map": "/irina1430/toDoTask/static/js/453.3f8160c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.375c0c46.css",
-    "static/js/main.aa92bef0.js"
+    "static/js/main.a53705a0.js"
   ]
 }
